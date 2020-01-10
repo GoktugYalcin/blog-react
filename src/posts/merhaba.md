@@ -23,5 +23,5 @@ Bu süreçte sanat, edebiyat, gezi ve haftalık gibi kategorilerde yazılar yaza
   gibi yerlere dair bir kaç notlar paylaşacağım kategori olacak. Ayrıca özel bir anısı olan yerleri
   ayrıca bir yazı olarak bu kategoriden geçeceğim.
 
-Ve evet... __[Twitter'ımda] yazdığım kadar troll geçinmemeye çalışacağım bu sitede, umarım blog
+Ve evet... [Twitter'ımda] yazdığım kadar troll geçinmemeye çalışacağım bu sitede, umarım blog
 istediğim seviyeye ulaşır ve ben hayatımda hep olmasını hayal ettiğim bir bloga sahip olurum...
