@@ -31,9 +31,6 @@ const Nav = () => (
         <a href="/index" className="hero-title-link">A. Marcus</a>
         </h1>
       <div className="hero-social-links">
-        <Link href="/about.js">
-          <a className="social-link">Hakkında</a>
-        </Link>
         <Link href="https://www.twitter.com/ordansutuvar">
           <a className="social-link">Twitter</a>
         </Link>

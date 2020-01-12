@@ -7,7 +7,7 @@ export const getPosts = () => {
       date: "13.01.2020"
     },
     {
-      title: "Tatilin ilk yazısı - Haftalık-01",
+      title: "Haftalık-01, Tatilin ilk yazısı!",
       slug: "haftalik-01",
       details: require("./posts/10012020.md").default,
       date: "10.01.2020"

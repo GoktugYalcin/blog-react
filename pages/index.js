@@ -6,6 +6,7 @@ import ReactMarkdown from "react-markdown";
 import Collapsible from 'react-collapsible';
 import { Script } from "domelementtype";
 import Nav from "../components/nav"
+import TextTruncate from "react-text-truncate"
 const Home = ({ posts }) => (
   <div className="container">
     <Head>
@@ -26,7 +27,13 @@ const Home = ({ posts }) => (
           </Link>
         </h2>
         <div className="blog-text">
-          <ReactMarkdown source={post.details} />
+        <TextTruncate
+            line={3}
+            element="span"
+            truncateText="…"
+            text={post.details}
+            textTruncateChild={<a href={post.slug}>Devamı için tıklayınız.</a>}
+        />
         </div>
         <div className="blog-date">{post.date}</div>
       </div>
